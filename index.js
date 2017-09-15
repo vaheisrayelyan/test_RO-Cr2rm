@@ -12,7 +12,7 @@ function loadHotspots() {
 }
 
 function loadPoint(image_path, hotspots, point_id) {
-
+console.log("testus");
     var imagePrefix = image_path;
     var directions  = ["r", "l", "u", "d", "f", "b"];
     var imageSuffix = ".jpg";
