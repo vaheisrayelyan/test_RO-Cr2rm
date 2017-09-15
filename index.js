@@ -1,4 +1,4 @@
-import * as RODIN from 'rodin/core';
+//import * as RODIN from 'rodin/core';
 RODIN.start();
 RODIN.Scene.HMDCamera.focalLength = 10;
 const POINTS = {};
